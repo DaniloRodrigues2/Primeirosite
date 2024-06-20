@@ -6,3 +6,11 @@ let fundo = document.getElementById("tela");
 function corVermelha(){
     fundo.style.backgroundColor = "red";
 }
+
+function corAzul(){
+    fundo.style.backgroundColor = "blue";
+}
+
+function corVerde(){
+    fundo.style.backgroundColor = "green";
+}
